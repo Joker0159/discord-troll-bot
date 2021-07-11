@@ -1,7 +1,8 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
+console.log('Code by joker0159!')
 
-bot.login('ODYzOTIwMDc2ODY4NjgxNzQ4.YOt6RQ._6Il99_KblhLkxqI79q68ioNkSM');
+bot.login('Paste Bot Token here!');
 
 bot.on('message', (message) => {
     
